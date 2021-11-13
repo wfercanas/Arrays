@@ -1,10 +1,10 @@
 const letters = ['a', 'b', 'c'];
 
-// Recorrido usando For
+// using for
 for (let index = 0; index < letters.length; index++) {
   const element = letters[index];
   console.log(`for: ${element}`);
 }
 
-// Recorrido usando ForEach
+// using forEach
 letters.forEach((item) => console.log(`forEach: ${item}`));
