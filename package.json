@@ -1,0 +1,26 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "Arrays Manipulation in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfercanas/Arrays.git"
+  },
+  "keywords": [
+    "arrays",
+    "javascript"
+  ],
+  "author": "wfercanas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfercanas/Arrays/issues"
+  },
+  "homepage": "https://github.com/wfercanas/Arrays#readme",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
