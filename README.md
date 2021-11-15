@@ -13,6 +13,8 @@ To check the code [click here](https://github.com/wfercanas/Arrays/blob/main/ser
 This project was develop to practice some array methods, the ones that are probably the most commonly used on a daily basis.
 Here you will find separate files for different methods, each of them presenting not only the specific method in use but also how to make it work in the same way using only a for-loop.
 
+You can find all the code within the folder [server/](https://github.com/wfercanas/Arrays/tree/main/server)
+
 ## Technologies used
 
 JavaScript
