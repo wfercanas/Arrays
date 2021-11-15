@@ -4,7 +4,9 @@
 
 ## Project URL
 
-🚀 You can check a single example of array manipulation --forEach()-- to render a todo app in the following link: https://wfercanas.github.io/Pathfinder/
+🚀 You can check a single example of array manipulation --forEach()-- to render a todo app in the following link: https://wfercanas.github.io/Arrays/client/01-for-each.html
+
+To check the code [click here](https://github.com/wfercanas/Arrays/blob/main/server/01-for-each-challenge.js).
 
 ## Project Description
 
